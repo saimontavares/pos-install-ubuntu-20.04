@@ -103,6 +103,7 @@ sudo snap install spotify
 sudo snap install discord
 sudo snap install --classic code
 sudo snap install android-studio --classic
+sudo snap install brave
 
 # ---------------------------------------------------------------------- #
 
